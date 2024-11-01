@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Herzlich Willkommen!
 
 Dies ist meine erste Seite, die vollständig in Markdown geschrieben wurde.
